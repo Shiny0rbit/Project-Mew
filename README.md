@@ -1,6 +1,8 @@
 # Project-Mew
 This is a sword / shield save file that has all event mews in gen 1-8 and GO
 
+* This is apart of project cherish, which is a project dedicated to making save files of specifc event pokemon like this one
+
 [ LIST OF MEWS IN SAVE ]
 
 >GEN 1 MEWS
